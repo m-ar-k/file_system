@@ -1,4 +1,4 @@
-# file_system
+# Simple Log-structured file system
 A simulated disk and log based filed system.
 
 Running the filesystem:
